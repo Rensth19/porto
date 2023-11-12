@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    font-weight: bold;
+}
+
+#about img {
+    max-width: 100%;
+}
+
+#skills .progress-bar {
+    transition: width 0.5s ease-in-out;
+}
+
+#projects .card {
+    margin-bottom: 20px;
+}
+
+#contactForm input,
+#contactForm textarea {
+    margin-bottom: 10px;
+}
+
+footer {
+    font-size: 14px;
+}
